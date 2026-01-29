@@ -94,6 +94,10 @@ footer {
     border-bottom: 4px solid #FFFFFF;
 }
 
+.special p:last-child{
+    font-size: 24px;
+}
+
 .highlight{
     /* Add a different background color (6-digit hex)
     Add right margin only: margin-right: ##px;
